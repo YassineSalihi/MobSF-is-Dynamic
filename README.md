@@ -63,3 +63,20 @@ On voit dans le lien ***<http://127.0.0.1/8000>*** :
 Voilà la fin des analyses statiques :
 
 ![info sur diva](https://github.com/user-attachments/assets/3723d544-1b34-40e9-92b1-89cc21f4d78f)
+
+> ### 🔴 CRITICAL PROBLEM
+>
+> MobSF wasn't able to connect with emulator-5554.
+> **Fix : Switch to genymotion.**
+
+### Voilà genymotion
+
+![installation](https://github.com/user-attachments/assets/c5dd06e0-ee37-4bbe-ae65-dcceaf423ff6)
+
+### Emulateur + Interface
+
+![InterfacePlusEmu](https://github.com/user-attachments/assets/8720ac79-c45f-4b3e-9a40-fd22a9c205b5)
+
+### Commencer MainActivity
+
+![start_main](https://github.com/user-attachments/assets/6d9af1cc-e254-45df-ac10-0d44424966b0)
