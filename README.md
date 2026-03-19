@@ -82,4 +82,5 @@ Voilà la fin des analyses statiques :
 ![start_main](https://github.com/user-attachments/assets/6d9af1cc-e254-45df-ac10-0d44424966b0)
 
 On fait le Challenge de "Hardcoded issue" :
+
 <https://github.com/user-attachments/assets/cf2df5e0-6887-41fb-907b-05f7c78d34be>
