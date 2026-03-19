@@ -84,3 +84,12 @@ Voilà la fin des analyses statiques :
 On fait le Challenge de "Hardcoded issue" :
 
 <https://github.com/user-attachments/assets/cf2df5e0-6887-41fb-907b-05f7c78d34be>
+
+### Tests Dynamiques Réalisés
+
+Lancer plusieurs activités pour but :
+
+  1. Identification des surfaces d'attacques.
+  2. savoir "hidden activities."
+
+<https://github.com/user-attachments/assets/ae30c60c-4441-4597-9501-db0c6431a6bd>
