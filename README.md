@@ -93,3 +93,9 @@ Lancer plusieurs activités pour but :
   2. savoir "hidden activities."
 
 <https://github.com/user-attachments/assets/ae30c60c-4441-4597-9501-db0c6431a6bd>
+
+#### Test SSL/TLS
+
+On va tester la sécurité des communications réseau de l'application
+
+<https://github.com/user-attachments/assets/e01e273c-7c29-434c-9cfe-388e959989f3>
