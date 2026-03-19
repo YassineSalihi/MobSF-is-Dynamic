@@ -99,3 +99,7 @@ Lancer plusieurs activités pour but :
 On va tester la sécurité des communications réseau de l'application
 
 <https://github.com/user-attachments/assets/e01e273c-7c29-434c-9cfe-388e959989f3>
+
+#### Generer Le rapport
+
+<https://github.com/user-attachments/assets/1b43f927-6105-4519-a918-06940980d403>
